@@ -19,3 +19,5 @@ Ele acabou sendo passado para a Fundação Apache e hoje é mantido pela Fundaç
 Ele é desenvolvido em Python e uma das caracteristicas é que ele é extensivel
 
 <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Orquestrador.png">
+
+O objetivo dele é orquestrar o pipeline de dados.
