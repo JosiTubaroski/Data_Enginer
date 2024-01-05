@@ -17,3 +17,5 @@ Vamos entender sobre:
 O Airflow é um projeto que foi criado pela Bianchi em 2015 e como vários outros projetos opensource, ele acabou sendo mantido.
 Ele acabou sendo passado para a Fundação Apache e hoje é mantido pela Fundação Apache.
 Ele é desenvolvido em Python e uma das caracteristicas é que ele é extensivel
+
+<img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Orquestrador.png">
