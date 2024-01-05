@@ -25,4 +25,4 @@ O objetivo dele é orquestrar o pipeline de dados.
 
 <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Dag.png">
 
-
+Dentro das dags tambem é desenvolvido como será a precedencia das tarefas
