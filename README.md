@@ -1,4 +1,4 @@
-# Engenhária de Dados.
+# Engenharia de Dados.
 
 Página dedicada ao estudo sobre Engenharia de Dados
 
