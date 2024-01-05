@@ -30,3 +30,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 ### Quais as vantagens de usar uma pipeline de dados com Airflow
 
 <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Vantagens.png">
+
+### Como o Airflow funciona
+
+- DAG: é um pipeline do Airflow
+   - O que este pipeline vai fazer?
+     
+- Operators/Task
