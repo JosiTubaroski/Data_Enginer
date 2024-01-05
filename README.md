@@ -21,3 +21,5 @@ Ele é desenvolvido em Python e uma das caracteristicas é que ele é extensivel
 <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Orquestrador.png">
 
 O objetivo dele é orquestrar o pipeline de dados.
+É desenvolvida uma dag e dentro das dags as tarefas as tasks
+
