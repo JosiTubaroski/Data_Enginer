@@ -37,3 +37,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
    - O que este pipeline vai fazer?
      
 - Operators/Task
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md">Preparação do Ambiente</a></p>
+</div> 
