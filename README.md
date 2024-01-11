@@ -49,3 +49,7 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Conhecendo_Airflow">03 - Conhecendo o airflow.</a></p>
 </div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Criar_DAG_Airflow">04 - Criar dag airflow</a></p>
+</div> 
