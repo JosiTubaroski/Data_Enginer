@@ -51,5 +51,10 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Criar_DAG_Airflow">04 - Criar dag airflow</a></p>
+<p><a href="https://github.com/JosiTubaroski/Criar_DAG_Airflow">04 - Criar primeira Dag na Prática</a></p>
 </div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Segunda_Dag_Paralelismo">05 - Segunda Dag: Paralelismo</a></p>
+</div> 
+
