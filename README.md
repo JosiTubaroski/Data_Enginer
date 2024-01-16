@@ -58,3 +58,9 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Segunda_Dag_Paralelismo">05 - Segunda Dag: Paralelismo / Terceira Dag: Precedencia</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Quarta_Dag/tree/main">06 - Dag: Utilizando with e set_upstream</a></p>
+</div> 
+
+
+
