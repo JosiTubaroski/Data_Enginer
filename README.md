@@ -62,5 +62,11 @@ Dentro das dags tambem é desenvolvido como será a precedencia das tarefas.
 <p><a href="https://github.com/JosiTubaroski/Quarta_Dag/tree/main">06 - Dag: Utilizando with e set_upstream</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Principais_Operadores/blob/main/README.md">07 - Principais Operadores</a></p>
+</div> 
+
+
+
 
 
