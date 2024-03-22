@@ -19,6 +19,6 @@ Vamos entender sobre:
 # Agendamento com Python (Em Andamento)
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/AWS">AWS Cloud</a></p>
+<p><a href="https://github.com/JosiTubaroski/AWS">Agendamento com Python</a></p>
 </div> 
 
