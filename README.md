@@ -1,6 +1,6 @@
 # ✨ Engenharia de Dados
 
-Página dedicada ao estudo sobre Engenharia de Dados
+Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
@@ -15,7 +15,6 @@ Página dedicada ao estudo sobre Engenharia de Dados
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial">Orquestração de Dados com Apache Airflow</a></p>
 </div> 
-
 
 
 ### 3) Docker
